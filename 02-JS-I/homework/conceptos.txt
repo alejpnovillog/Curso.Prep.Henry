@@ -1,0 +1,19 @@
+Variables.
+    Son como cajitas en donde se almacenan datos para luego ser utilizados.
+
+String.
+    Es un conjunto de caracteres que pueden ser letras, números, caracteres especiales.
+
+Funciones (argumentos, return)
+    Se utilizan para reutilizar líneas de código dentro del script.
+    A las funciones se les pueden pasar argumentos o datos para que ésta los tome y realizar una tarea.
+    Para salir de las funciones se utiliza el return 
+
+Declaracion if
+    Se utiliza para poder tomar una decisión en el flujo del script.
+    
+Valores booleanos(true, false)
+    En un script podemos necesitar saber si algo es verdero (true) o falso (false).
+    Habitualmente se los utiliza como respuesta en una delaración if u else.
+        
+
