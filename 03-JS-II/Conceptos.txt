@@ -1,0 +1,17 @@
+Sentencia For.
+    Es la sentencia que tiene el lenguaje para poder realizar varias tareas en forma repetitiva.
+
+Operador Logico &&.
+
+    Supongamos que necesitamos seleccionar jugadores para un equipo que sean mayor de 12 años y que midan mas 190 cm.
+    Podriamos deir (edad > 12) && (estatura > 190 cm)
+
+Operador Logico ||.
+
+    Supongamos que necesitamos seleccionar jugadores para un equipo que midan 150 cm or 190 cm.
+    Podriamos deir (estatura === 150 cm) || (estatura === 190 cm)
+
+Operador Logico !.
+
+    Supongamos que necesitamos seleccionar jugadores para un equipo que no sean de 12 años.
+    Podriamos decir (edad !== 12)
