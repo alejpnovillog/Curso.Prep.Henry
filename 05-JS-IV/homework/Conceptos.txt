@@ -1,0 +1,25 @@
+Objetos.
+    Es un tipo de dato que se puede guardar informacion determinada del propio objeto. Ejemplo
+        Objeto coche.
+             La informacion del coche seria:
+                año del coche
+                marca del coche
+                color del coche
+                consumo del coche
+
+Propiedades del Objeto.
+    La propiedad es aquella informacion que no necesita una funcion para obtenerla.
+
+Metodo del Objeto.
+    Es una funcion que tiene el objeto para poder dar una informacion.
+                        
+Bucle for.
+    El bucle for in sirve para poder investigar el objeto en forma secuencial.
+
+Notacion.
+    La Notacion es la forma para poder acceder a las propiedades y o metodos del objeto.
+    La utilizacion del punto es una de las formas y la otra es utilizar los corchetes.
+    Hay que tener encuenta que al utilizar los corchetes debemos llamar a la propiedad o al metodo del objeto
+    invocando su nombre en  formato de sting.
+    
+         
