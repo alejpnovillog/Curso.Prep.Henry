@@ -1,0 +1,6 @@
+Array.
+    Supongamos que necesitamos armar una lista de 5 jugadores para un equipo de basquet en javascript.
+    var equipo = [14, 23, 10, "PERDRO", "JUAN"]
+    Coloco los numero de las camisetas porque no se los nombres.
+    
+     
