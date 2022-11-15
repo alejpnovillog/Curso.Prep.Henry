@@ -1,0 +1,5 @@
+Prototype.
+    Es un herramienta que podemos usar para agregar metodos a las clases.
+
+Constructores.
+    Es donde definimos las propiedades de una clase. Esta definicion toma efeto en el momento que realizamos una instancia de la clase.    
