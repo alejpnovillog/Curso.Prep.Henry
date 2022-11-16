@@ -1,0 +1,4 @@
+Funciones CallBack.
+
+    La particularidad de estas funciones es poder ser utilizado como parametros de otra funcion.
+    Lo que permite poder hacer mas compacta la codificacion.
